@@ -7,6 +7,7 @@
  - [lodi-admin](https://github.com/lodidata/lodi-admin)
  - [lodi-agent](https://github.com/lodidata/lodi-agent)
  - [lodi-pay-admin](https://github.com/lodidata/lodi-pay-admin)
+ - [sulobet-super-api](https://github.com/lodidata/sulobet-super-api)
  - [lodi-pay-api](https://github.com/lodidata/lodi-pay-api)
  - [lodi-pay-hyperf-api](https://github.com/lodidata/lodi-pay-hyperf-api)
  - [lodi-sub-api](https://github.com/lodidata/lodi-sub-api)
