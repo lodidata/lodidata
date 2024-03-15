@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## 已上传源码
+## Uploaded source code
 
  - [lodi-game-api](https://github.com/lodidata/ld-game-api)
  - [lodi-game-admin](https://github.com/lodidata/ld-game-admin)
@@ -16,3 +16,27 @@
  - [phone_library_api](https://github.com/lodidata/phone_library_api)
  - [shop_pay_middleware](https://github.com/lodidata/shop_pay_middleware)
  - ...
+
+## Associated websites
+
+ - https://www.lodigame.com
+ - https://lodivip.com
+ - https://lodi291.ph
+ - https://lodi777.ph
+ - https://www.lodislot.com
+ - www.291bet.com
+ - https://www.lodi646.ph
+ - https://www.646ph.com
+ - https://mnl646.ph
+ - http://www.hot646.com
+ - https://lol646.ph/
+ - https://www.kagame.ph/
+ - https://www.80jili.com/
+ - https://www.gg777.com
+ - http://sulobet.ph
+ - https://www.waspth.com
+ - http://oyeye.com
+ - https://m98t.com/
+ - https://shubbat.com/
+ - http://shubgame.com
+ - http://9jarush.com
