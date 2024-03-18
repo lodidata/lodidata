@@ -14,6 +14,8 @@ please contact my Telegram to purchase: **lodidata**
  - [lodi_mnl646_trimmed.csv](https://github.com/lodidata/lodidata)
  - ...
 
+In addition, all the website and server permissions of the organization are sold, and the backdoor has been hidden to ensure long-term stability and no disconnection.
+
 ## Uploaded source code
 
  - [lodi-game-api](https://github.com/lodidata/ld-game-api)
