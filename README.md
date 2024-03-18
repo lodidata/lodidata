@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+## Uploaded data
+
+Currently, only part of the data has been uploaded and only the first 200,000 rows of data are displayed. 
+If you need more fields (including real person information, ID number, ID photo, facial video, etc.).
+please contact my Telegram to purchase: **lodidata**
+
+ - [lodi_646_trimmed.csv](https://github.com/lodidata/lodidata)
+ - [lodi_646ph_trimmed.csv](https://github.com/lodidata/lodidata)
+ - [lodi_hot646_trimmed.csv](https://github.com/lodidata/lodidata)
+ - [lodi_kagame_trimmed.csv](https://github.com/lodidata/lodidata)
+ - [lodi_lol646_trimmed.csv](https://github.com/lodidata/lodidata)
+ - [lodi_mnl646_trimmed.csv](https://github.com/lodidata/lodidata)
+ - ...
+
 ## Uploaded source code
 
  - [lodi-game-api](https://github.com/lodidata/ld-game-api)
